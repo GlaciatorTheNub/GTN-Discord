@@ -1,0 +1,6 @@
+echo "# GTN-Discord" >> README.md
+git init
+git add README.md
+git commit -m "cow"
+git remote add origin Fuck CoW
+git issue_comment -u origin master
